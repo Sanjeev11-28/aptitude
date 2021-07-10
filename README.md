@@ -23,7 +23,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="# Chain rule "> CHAIN RULE </a></li>
 <li><a href="# Decimal fractions "> DECIMAL FRACTIONS </a></li>
 <li><a href="# Logarithms "> LOGARITHMS </a></li>
-<li><a href="#Percentage"PERCENTAGE</a></li>
+<li><a href="#Percentage">PERCENTAGE</a></li>
 <li><a href="# Problems on ages "> PROBLEMS ON AGES </a></li>
 <li><a href="# Profit and loss "> PROFIT AND LOSS </a></li>
 <li><a href="# Simple interest "> SIMPLE INTEREST </a></li>
