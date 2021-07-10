@@ -29,30 +29,30 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="# Simple-Interest "> Simple Interest </a></li>
 <li><a href="# Time-and-Distance "> Time and Distance </a></li>
 <li><a href="# Volume-and-Surface-Area "> Volume and Surface Area </a></li>
-<li><a href="# Al-gebra"> Algebra </a></li>
-<li><a href="# Ar-ea"> Area </a></li>
+<li><a href="# Algebra-sums"> Algebra Sums </a></li>
+<li><a href="# Area-sums"> Area Sums </a></li>
 <li><a href="#Boats-and-Streams ">Boats and Streams </a></li>
-<li><a href="#Clock-s"> Clocks </a></li>
+<li><a href="# Problem-on-Clocks"> Problem on Clocks </a></li>
 <li><a href="# Hcf-and-Lcm-of-Numbers "> Hcf and Lcm of Numbers </a></li>
 <li><a href="# Operations-on-Numbers ">Operations on Numbers </a></li>
 <li><a href="# Permutations-and-Combinations "> Permutations and Combinations </a></li>
 <li><a href="#Problems-on-Numbers">Problems on Numbers</a></li>
 <li><a href="# Races-and-Games-of-Skill "> Races and Games of Skill </a></li>
-<li><a href="# Simplifi-cation "> Simplification </a></li>
+<li><a href="# Simplification-sums "> Simplification Sums </a></li>
 <li><a href="# Time-and-Work "> Time and Work  </a></li>
-<li><a href="# Prog-ression "> Progression </a></li>
-<li><a href="# Tri-angle "> Triangle </a></li>
-<li><a href="# Aver-age "> Average </a></li>
-<li><a href="# Cal-endar ">Calendar</a></li>
+<li><a href="# Progression-PG "> Progression PG </a></li>
+<li><a href="# Angles-of-Triangle "> Angles of Triangle </a></li>
+<li><a href="# Problems-Average ">Problems Average </a></li>
+<li><a href="# Diff-Calendar ">Diff Calendar</a></li>
 <li><a href="# Compound-Interest "> Compound Interest </a></li>
 <li><a href="# Heights-and-Distance"> Heights and Distance </a></li>
-<li><a href="# Partner-ship "> Partnership </a></li>
+<li><a href="# Partner-Ship "> Partner Ship </a></li>
 <li><a href="# Pipes-and-Cisterns "> Pipes and Cisterns </a></li>
 <li><a href="# Problems-on-Trains "> Problems on Trains </a></li>
 <li><a href="# Ratio-and-Proportion "> Ratio and Proportion </a></li>
 <li><a href="# Stock-and-Shares ">Stock and Shares </a></li>
 <li><a href="# True-Discount "> True Discount  </a></li>
-<li><a href="# Probabilty ">  Probabilty  </a></li>
+<li><a href="# Probabilty-Sums ">  Probabilty Sums  </a></li>
 </ul>
 
 
