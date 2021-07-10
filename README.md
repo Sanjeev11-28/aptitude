@@ -22,7 +22,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#Bankers-Discount ">Bankers Discount </a></li>
 <li><a href="# Chain-Rule ">Chain Rule</a></li>
 <li><a href="# Decimal-Fractions "> Decimal Fractions</a></li>
-<li><a href="# Logarithms-Problems "> Logarithms Problems </a></li>
+<li><a href="# Logarithmic-Problems "> Logarithmic Problems </a></li>
 <li><a href="#Percentage-Problems">Percentage Problems</a></li>
 <li><a href="# Problems-on-Ages "> Problems on Ages </a></li>
 <li><a href="# Profit-and-Loss "> Profit and Loss </a></li>
@@ -138,7 +138,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Logarithms Problems
+## Logarithmic Problems
 - [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
 - [Coin demo](https://coindemo.io/) : CryptoCurrency demo
 - [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Some Bitcoin Resources
