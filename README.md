@@ -14,11 +14,13 @@ Some useful websites for programmers.
 
 When learning CS, there are some useful sites you must know to get always informed to do your technologies even better and learn new things. Here is a non-exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
 
-**Note** : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
+**Note** : [Aptitude] (https:aptitudetips.com)
 
 ## Index
 <ul>
-<li><a href="#when-you-get-stuck">When you get stuck</a></li>
+<li><a href="#ALLIGATION OF MIXTURE
+![image](https://user-images.githubusercontent.com/71511326/125156848-46d20100-e185-11eb-98a6-32ca5d8b8d52.png)
+">When you get stuck</a></li>
 <li><a href="#news">News</a></li>
 <li><a href="#magazines">Magazines</a></li>
 <li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
