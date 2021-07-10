@@ -18,41 +18,96 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Index
 <ul>
-<li><a href="#ALLIGATION OF MIXTURE
-![image](https://user-images.githubusercontent.com/71511326/125156848-46d20100-e185-11eb-98a6-32ca5d8b8d52.png)
-">When you get stuck</a></li>
-<li><a href="#news">News</a></li>
-<li><a href="#magazines">Magazines</a></li>
-<li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
-<li><a href="#cryptocurrency">Cryptocurrency</a></li>
-<li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
-<li><a href="#general-coding-advice">General Coding advice</a></li>
-<li><a href="#coding-style">Coding Style</a></li>
-<li><a href="#general-tools">General Tools</a></li>
-<li><a href="#interview-preparation">Interview Preparation</a></li>
-<li><a href="#documentaries">Documentaries</a></li>
-<li><a href="#moocs-for-learning-something-new">MOOCs for learning something new</a></li>
-<li><a href="#sites-related-to-your-preferred-programming-language-for-me-c">Sites related to your preferred programming language (For me C++)</a></li>
-<li><a href="#learn-ai">Learn AI</a></li>
-<li><a href="#seminar-research-writing-talks-etc">Seminar , research writing , talks etc</a></li>
-<li><a href="#everything-in-one-place">Everything in one place</a></li>
-<li><a href="#youtube-channels">YouTube Channels</a></li>
-<li><a href="#good-articles">Good Articles</a></li>
-<li><a href="#bash-and-shell-scripting">Bash and Shell scripting</a></li>
-<li><a href="#podcasts">Podcasts</a></li>
-<li><a href="#building-a-simple-compilerinterpreter">Building a Simple Compiler/Interpreter</a></li>
-<li><a href="#watch-others-code">Watch others code</a></li>
-<li><a href="#tutorials">Tutorials</a></li>
-<li><a href="#what-should-a-programmer-know">What should a programmer know</a></li>
-<li><a href="#competitive-programming">Competitive programming</a></li>
-<li><a href="#computer-books">Computer Books</a></li>
-<li><a href="#video-tutorials">Video Tutorials</a></li>
-<li><a href="#online-compiler-and-sharing-code-snippets">Online Compiler and Sharing Code snippets</a></li>
-<li><a href="#blogs-of-developers">Blogs of Developers</a></li>
-<li><a href="#for-improving-your-english">For improving your English</a></li>
-<li><a href="#when-you-get-bored-from-cs-related-stuff">When you get bored from CS related stuff</a></li>
-<li><a href="#open-source-websites">Open Source Websites</a></li>
-<li><a href="#internships">Internships</a></li>
+<li><a href="#ALLIGATION OF MIXTURE">ALLIGATION OF MIXTURE</a></li>
+<li><a href="# 
+BANKERS DISCOUNT "> 
+BANKERS DISCOUNT </a></li>
+<li><a href="# 
+CHAIN RULE "> 
+CHAIN RULE </a></li>
+<li><a href="# 
+DECIMAL FRACTIONS "> 
+DECIMAL FRACTIONS </a></li>
+<li><a href="# 
+LOGARITHMS "> 
+LOGARITHMS </a></li>
+<li><a href="#PERCENTAGE"PERCENTAGE</a></li>
+<li><a href="# 
+PROBLEMS ON AGES "> 
+PROBLEMS ON AGES </a></li>
+<li><a href="# 
+PROFIT AND LOSS "> 
+PROFIT AND LOSS </a></li>
+<li><a href="# 
+SIMPLE INTEREST "> 
+SIMPLE INTEREST </a></li>
+<li><a href="# 
+TIME AND DISTANCE "> 
+TIME AND DISTANCE </a></li>
+<li><a href="# 
+VOLUME AND SURFACE AREA "> 
+VOLUME AND SURFACE AREA </a></li>
+<li><a href="# 
+ALGEBRA "> 
+ALGEBRA </a></li>
+<li><a href="# 
+AREA "> 
+AREA </a></li>
+<li><a href="#BOATS AND STREAMS ">BOATS AND STREAMS </a></li>
+<li><a href="# 
+CLOCKS "> 
+CLOCKS </a></li>
+<li><a href="# 
+HCF AND LCM OF NUMBERS "> 
+HCF AND LCM OF NUMBERS </a></li>
+<li><a href=" 
+HCF AND LCM OF NUMBERS "> 
+HCF AND LCM OF NUMBERS </a></li>
+<li><a href="# 
+OPERATIONS ON NUMBERS "> 
+OPERATIONS ON NUMBERS </a></li>
+<li><a href="# 
+PERMUTATIONS AND COMBINATIONS "> 
+PERMUTATIONS AND COMBINATIONS </a></li>
+<li><a href="#PROBLEMS ON NUMBERS">PROBLEMS ON NUMBERS</a></li>
+<li><a href="# 
+RACES AND GAMES OF SKILL "> 
+RACES AND GAMES OF SKILL </a></li>
+<li><a href="# 
+SIMPLIFICATION "> 
+SIMPLIFICATION </a></li>
+<li><a href="# 
+TIME AND WORK "> 
+TIME AND WORK </a></li>
+<li><a href="# 
+PROGRESSION "> 
+PROGRESSION </a></li>
+<li><a href="# 
+TRIANGLE "> 
+TRIANGLE </a></li>
+<li><a href="# 
+AVERAGE "> 
+AVERAGE </a></li>
+<li><a href="# 
+CALENDAR "></a></li>
+<li><a href="# 
+COMPOUND INTEREST "> 
+COMPOUND INTEREST </a></li>
+<li><a href="# 
+HEIGHTS AND DISTANCES "> 
+HEIGHTS AND DISTANCES </a></li>
+<li><a href="# 
+PARTNERSHIP "> 
+PARTNERSHIP </a></li>
+<li><a href="# 
+PIPES AND CISTERNS "> 
+PIPES AND CISTERNS </a></li>
+<li><a href="# 
+PROBLEMS ON TRAINS "> 
+PROBLEMS ON TRAINS </a></li>
+<li><a href="# 
+RATIO AND PROPORTION "> 
+RATIO AND PROPORTION </a></li>
 <li><a href="#jobs">Jobs</a></li>
 </ul>
 
