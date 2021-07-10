@@ -18,7 +18,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Index
 <ul>
-<li><a href="#Alligation-of-Mixture">Alliagtion of Mixture</a></li>
+<li><a href="#Alligation-of-Mixture">Alligation of Mixture</a></li>
 <li><a href="#Bankers-Discount ">Bankers Discount </a></li>
 <li><a href="#Chain-Rule ">Chain Rule</a></li>
 <li><a href="#Decimal-Fractions "> Decimal Fractions</a></li>
@@ -55,7 +55,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#Probabilty-Sums ">  Probabilty Sums  </a></li>
 </ul>
 
-## Alliagtion of  Mixture
+## Alligation of  Mixture
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
 - [Google](https://www.google.com) : A search engine for anything you get stuck with.
