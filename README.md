@@ -18,41 +18,41 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Index
 <ul>
-<li><a href="#Alliagtion of  Mixture">ALLIGATION OF MIXTURE</a></li>
-<li><a href="#Bankers Discount ">BANKERS DISCOUNT </a></li>
-<li><a href="# Chain Rule "> CHAIN RULE </a></li>
-<li><a href="# Decimal Fractions "> DECIMAL FRACTIONS </a></li>
-<li><a href="# Logarithms "> LOGARITHMS </a></li>
-<li><a href="#Percentage">PERCENTAGE</a></li>
-<li><a href="# Problems on Ages "> PROBLEMS ON AGES </a></li>
-<li><a href="# Profit and Loss "> PROFIT AND LOSS </a></li>
-<li><a href="# Simple Interest "> SIMPLE INTEREST </a></li>
-<li><a href="# Time and Distance "> TIME AND DISTANCE </a></li>
-<li><a href="# Vloume and Surface Area "> VOLUME AND SURFACE AREA </a></li>
-<li><a href="# Algebra "> ALGEBRA </a></li>
-<li><a href="# Area "> AREA </a></li>
-<li><a href="#Boats and Streams ">BOATS AND STREAMS </a></li>
-<li><a href="# Clocks "> CLOCKS </a></li>
-<li><a href="# Hcf and Lcm of Numbers "> HCF AND LCM OF NUMBERS </a></li>
-<li><a href="# Operations on Numbers "> OPERATIONS ON NUMBERS </a></li>
-<li><a href="# Permutations and Combinations "> PERMUTATIONS AND COMBINATIONS </a></li>
-<li><a href="#Problems on Numbers">PROBLEMS ON NUMBERS</a></li>
-<li><a href="# Races and Games of Skill "> RACES AND GAMES OF SKILL </a></li>
-<li><a href="# Simplification "> SIMPLIFICATION </a></li>
-<li><a href="# Time and Work "> TIME AND WORK </a></li>
-<li><a href="# Progression "> PROGRESSION </a></li>
-<li><a href="# Triangle "> TRIANGLE </a></li>
-<li><a href="# Average "> AVERAGE </a></li>
-<li><a href="# Calendar ">CALENDAR</a></li>
-<li><a href="# Compound Interest "> COMPOUND INTEREST </a></li>
-<li><a href="# Heights and Distance"> HEIGHTS AND DISTANCES </a></li>
-<li><a href="# Partnership "> PARTNERSHIP </a></li>
-<li><a href="# Pipes and Cisterns "> PIPES AND CISTERNS </a></li>
-<li><a href="# Problems on Trains "> PROBLEMS ON TRAINS </a></li>
-<li><a href="# Ratio and Proportion "> RATIO AND PROPORTION </a></li>
-<li><a href="# Stock and Shares "> STOCK AND SHARES </a></li>
-<li><a href="# True Discount "> TRUE DISCOUNT </a></li>
-<li><a href="# Probabilty "> PROBABILITY </a></li>
+<li><a href="#Alligation-of-Mixture">Alliagtion of Mixture</a></li>
+<li><a href="#Bankers-Discount ">Bankers Discount </a></li>
+<li><a href="# Chain Rule ">Chain Rule</a></li>
+<li><a href="# Decimal Fractions "> Decimal Fractions</a></li>
+<li><a href="# Logarithms "> Logarithms </a></li>
+<li><a href="#Percentage">Percentage</a></li>
+<li><a href="# Problems on Ages "> Problems on Ages </a></li>
+<li><a href="# Profit and Loss "> Profit and Loss </a></li>
+<li><a href="# Simple Interest "> Simple Interest </a></li>
+<li><a href="# Time and Distance "> Time and Distance </a></li>
+<li><a href="# Volume and Surface Area "> Volume and Surface Area </a></li>
+<li><a href="# Algebra "> Algebra </a></li>
+<li><a href="# Area "> Area </a></li>
+<li><a href="#Boats and Streams ">Boats and Streams </a></li>
+<li><a href="# Clocks "> Clocks </a></li>
+<li><a href="# Hcf and Lcm of Numbers "> Hcf and Lcm of Numbers </a></li>
+<li><a href="# Operations on Numbers ">Operations on Numbers </a></li>
+<li><a href="# Permutations and Combinations "> Permutations and Combinations </a></li>
+<li><a href="#Problems on Numbers">Problems on Numbers</a></li>
+<li><a href="# Races and Games of Skill "> Races and Games of Skill </a></li>
+<li><a href="# Simplification "> Simplification </a></li>
+<li><a href="# Time and Work "> Time and Work  </a></li>
+<li><a href="# Progression "> Progression </a></li>
+<li><a href="# Triangle "> Triangle </a></li>
+<li><a href="# Average "> Average </a></li>
+<li><a href="# Calendar ">Calendar</a></li>
+<li><a href="# Compound Interest "> Compound Interest </a></li>
+<li><a href="# Heights and Distance"> Heights and Distance </a></li>
+<li><a href="# Partnership "> Partnership </a></li>
+<li><a href="# Pipes and Cisterns "> Pipes and Cisterns </a></li>
+<li><a href="# Problems on Trains "> Problems on Trains </a></li>
+<li><a href="# Ratio and Proportion "> Ratio and Proportion </a></li>
+<li><a href="# Stock and Shares ">Stock and Shares </a></li>
+<li><a href="# True Discount "> True Discount  </a></li>
+<li><a href="# Probabilty ">  Probabilty  </a></li>
 </ul>
 
 
