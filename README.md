@@ -32,7 +32,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="# Algebra"> Algebra </a></li>
 <li><a href="# Area"> Area </a></li>
 <li><a href="#Boats-and-Streams ">Boats and Streams </a></li>
-<li><a href="# Clocks "> Clocks </a></li>
+<li><a href="#Clocks"> Clocks </a></li>
 <li><a href="# Hcf-and-Lcm-of-Numbers "> Hcf and Lcm of Numbers </a></li>
 <li><a href="# Operations-on-Numbers ">Operations on Numbers </a></li>
 <li><a href="# Permutations-and-Combinations "> Permutations and Combinations </a></li>
