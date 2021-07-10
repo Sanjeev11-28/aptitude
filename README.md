@@ -42,7 +42,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#Time-and-Work "> Time and Work  </a></li>
 <li><a href="#Progression-PG "> Progression PG </a></li>
 <li><a href="#Angles-of-Triangle "> Angles of Triangle </a></li>
-<li><a href="#Problems-Average ">Problems Average </a></li>
+<li><a href="#Problems-on-Average ">Problems on Average </a></li>
 <li><a href="#Diff-Calendar ">Diff Calendar</a></li>
 <li><a href="#Compound-Interest "> Compound Interest </a></li>
 <li><a href="#Heights-and-Distance"> Heights and Distance </a></li>
