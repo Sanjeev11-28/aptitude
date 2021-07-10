@@ -1,11 +1,11 @@
 # APTITUDE
 
 
-<h1 align="center">
+<!--<h1 align="center">
     <br>
     <img width="200" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="awesome">
     <br>
-</h1>
+</h1>-->
 
 [![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
 
@@ -18,99 +18,42 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Index
 <ul>
-<li><a href="#ALLIGATION OF MIXTURE">ALLIGATION OF MIXTURE</a></li>
-<li><a href="# 
-BANKERS DISCOUNT "> 
-BANKERS DISCOUNT </a></li>
-<li><a href="# 
-CHAIN RULE "> 
-CHAIN RULE </a></li>
-<li><a href="# 
-DECIMAL FRACTIONS "> 
-DECIMAL FRACTIONS </a></li>
-<li><a href="# 
-LOGARITHMS "> 
-LOGARITHMS </a></li>
-<li><a href="#PERCENTAGE"PERCENTAGE</a></li>
-<li><a href="# 
-PROBLEMS ON AGES "> 
-PROBLEMS ON AGES </a></li>
-<li><a href="# 
-PROFIT AND LOSS "> 
-PROFIT AND LOSS </a></li>
-<li><a href="# 
-SIMPLE INTEREST "> 
-SIMPLE INTEREST </a></li>
-<li><a href="# 
-TIME AND DISTANCE "> 
-TIME AND DISTANCE </a></li>
-<li><a href="# 
-VOLUME AND SURFACE AREA "> 
-VOLUME AND SURFACE AREA </a></li>
-<li><a href="# 
-ALGEBRA "> 
-ALGEBRA </a></li>
-<li><a href="# 
-AREA "> 
-AREA </a></li>
-<li><a href="#BOATS AND STREAMS ">BOATS AND STREAMS </a></li>
-<li><a href="# 
-CLOCKS "> 
-CLOCKS </a></li>
-<li><a href="# 
-HCF AND LCM OF NUMBERS "> 
-HCF AND LCM OF NUMBERS </a></li>
-<li><a href=" 
-HCF AND LCM OF NUMBERS "> 
-HCF AND LCM OF NUMBERS </a></li>
-<li><a href="# 
-OPERATIONS ON NUMBERS "> 
-OPERATIONS ON NUMBERS </a></li>
-<li><a href="# 
-PERMUTATIONS AND COMBINATIONS "> 
-PERMUTATIONS AND COMBINATIONS </a></li>
-<li><a href="#PROBLEMS ON NUMBERS">PROBLEMS ON NUMBERS</a></li>
-<li><a href="# 
-RACES AND GAMES OF SKILL "> 
-RACES AND GAMES OF SKILL </a></li>
-<li><a href="# 
-SIMPLIFICATION "> 
-SIMPLIFICATION </a></li>
-<li><a href="# 
-TIME AND WORK "> 
-TIME AND WORK </a></li>
-<li><a href="# 
-PROGRESSION "> 
-PROGRESSION </a></li>
-<li><a href="# 
-TRIANGLE "> 
-TRIANGLE </a></li>
-<li><a href="# 
-AVERAGE "> 
-AVERAGE </a></li>
-<li><a href="# 
-CALENDAR "></a></li>
-<li><a href="# 
-COMPOUND INTEREST "> 
-COMPOUND INTEREST </a></li>
-<li><a href="# 
-HEIGHTS AND DISTANCES "> 
-HEIGHTS AND DISTANCES </a></li>
-<li><a href="# 
-PARTNERSHIP "> 
-PARTNERSHIP </a></li>
-<li><a href="# 
-PIPES AND CISTERNS "> 
-PIPES AND CISTERNS </a></li>
-<li><a href="# 
-PROBLEMS ON TRAINS "> 
-PROBLEMS ON TRAINS </a></li>
-<li><a href="# 
-RATIO AND PROPORTION "> 
-RATIO AND PROPORTION </a></li>
-<li><a href="#jobs">Jobs</a></li>
+<li><a href="#Alliagtion of  mixture">ALLIGATION OF MIXTURE</a></li>
+<li><a href="#Bankers discount ">BANKERS DISCOUNT </a></li>
+<li><a href="# Chain rule "> CHAIN RULE </a></li>
+<li><a href="# Decimal fractions "> DECIMAL FRACTIONS </a></li>
+<li><a href="# Logarithms "> LOGARITHMS </a></li>
+<li><a href="#Percentage"PERCENTAGE</a></li>
+<li><a href="# Problems on ages "> PROBLEMS ON AGES </a></li>
+<li><a href="# Profit and loss "> PROFIT AND LOSS </a></li>
+<li><a href="# Simple interest "> SIMPLE INTEREST </a></li>
+<li><a href="# Time and distance "> TIME AND DISTANCE </a></li>
+<li><a href="# Vloume and surface area "> VOLUME AND SURFACE AREA </a></li>
+<li><a href="# Algebra "> ALGEBRA </a></li>
+<li><a href="# Area "> AREA </a></li>
+<li><a href="#Boats and streams ">BOATS AND STREAMS </a></li>
+<li><a href="# Clocks "> CLOCKS </a></li>
+<li><a href="# Hcf and lcm of numbers "> HCF AND LCM OF NUMBERS </a></li>
+<li><a href="# Operations on numbers "> OPERATIONS ON NUMBERS </a></li>
+<li><a href="# Permutations and combinations "> PERMUTATIONS AND COMBINATIONS </a></li>
+<li><a href="#Problems on numbers">PROBLEMS ON NUMBERS</a></li>
+<li><a href="# Races and games of skill "> RACES AND GAMES OF SKILL </a></li>
+<li><a href="# Simplification "> SIMPLIFICATION </a></li>
+<li><a href="# Time and work "> TIME AND WORK </a></li>
+<li><a href="# Progression "> PROGRESSION </a></li>
+<li><a href="# Triangle "> TRIANGLE </a></li>
+<li><a href="# Average "> AVERAGE </a></li>
+<li><a href="# Calendar ">CALENDAR</a></li>
+<li><a href="# Compound interest "> COMPOUND INTEREST </a></li>
+<li><a href="# Heights and distance"> HEIGHTS AND DISTANCES </a></li>
+<li><a href="# Partnership "> PARTNERSHIP </a></li>
+<li><a href="# Pipes and cisterns "> PIPES AND CISTERNS </a></li>
+<li><a href="# PROBLEMS ON TRAINS "> PROBLEMS ON TRAINS </a></li>
+<li><a href="# Ratio and proportion "> RATIO AND PROPORTION </a></li>
+<li><a href="# Stock and shares "> STOCK AND SHARES </a></li>
+<li><a href="# True dicount "> TRUE DISCOUNT </a></li>
+<li><a href="# Probabilty "> PROBABILITY </a></li>
 </ul>
-
 ## When you get stuck
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
